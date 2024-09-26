@@ -1,0 +1,13 @@
+Create Ec2 instance
+-open inbound port=ssh,http,https.
+- sudo apt update
+- sudo apt install git
+- sudo apt install nodejs
+- sudo apt install npm
+- mkdir folder1
+cd folder1
+git clone github url
+- npm install
+- npm start
+- Chcek port no in index.json
+-opne that port no in outbound rules
